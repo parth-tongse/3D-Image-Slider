@@ -1,2 +1,2 @@
 # 3D-Image-Slider
-Test Project for my resume.
+My 3D Image Slider Project.
